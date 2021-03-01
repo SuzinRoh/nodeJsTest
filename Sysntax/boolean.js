@@ -3,4 +3,4 @@
 
 console.log(true);
 console.log(false);
-//true = 1; doen't use type name for variable
+//true = 1; doesn't use type name for variable
