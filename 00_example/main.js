@@ -40,6 +40,8 @@ var app = http.createServer(function (request, response) {
 app.listen(3000);
 // if port number => 80 생략가능 기본값
 //
+//
+//
 // http://tmp:3000/main?html&page=12
 //
 // protocol , host(domain) , port ,path ,query srting
